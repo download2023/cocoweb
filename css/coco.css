@@ -1,0 +1,38 @@
+.navbar-nav {
+  padding-right: 20px;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Quicksand', sans-serif; /* Ganti dengan warna yang diinginkan */
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link.active {
+  font-family: 'Quicksand', sans-serif; /* Ganti dengan warna yang diinginkan */
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif; 
+  font-weight: 500;
+}
+
+.tes {
+  font-family: 'Quicksand', sans-serif; 
+  font-weight: 500;
+}
+
+label {
+  font-family: 'Quicksand', sans-serif; 
+  font-weight: 700;
+}
+
+input {
+  font-family: 'Quicksand', sans-serif; 
+  font-weight: 400;
+}
+
+textarea {
+  font-family: 'Quicksand', sans-serif; 
+  font-weight: 400;
+}
